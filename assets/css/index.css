@@ -658,11 +658,10 @@ li {
     background-position: center;
     background-size: contain;
     position: relative;
-    z-index: -1;
     margin-top: -5vw;
     position: relative;
     clip-path: polygon(100% 0, 100% 100%, 50% 92%, 0 100%, 0 0);
-    z-index: 3;
+    z-index: 1;
 }
 .subscription h2{
     font-size: 4.2vw;
